@@ -1,7 +1,9 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /posts/:title/
+# permalink:           /posts/:title/
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
 title:               RubyonRails Developer
