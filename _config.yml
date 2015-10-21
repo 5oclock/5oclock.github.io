@@ -1,7 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           posts/:title/
+permalink:           /posts/:title/
 
 # Setup
 title:               RubyonRails Developer
@@ -10,7 +10,7 @@ description:         '<a href="http://rubyonrails.org/"><img src="http://i.imgur
 write beautiful code by favoring convention over configuration.'
 url:                 http://developer.5oclock.io
 baseurl:             'http://developer.5oclock.io'
-paginate:            5
+paginate:            3
 
 # About/contact
 author:
