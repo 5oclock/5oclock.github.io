@@ -63,7 +63,11 @@ a {
 }
 
 .footer {
-  font-size: 0.9em;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 50px;
+  font-size: 0.7em;
   text-align: right;
 }
 
