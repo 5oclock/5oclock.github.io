@@ -65,10 +65,8 @@ a {
 .footer {
   margin-top: 50px;
   margin-bottom: 50px;
-  margin-right: 150px;
-  margin-left: 50px;
   font-size: 0.7em;
-  text-align: right;
+  text-align: center;
 }
 
 /*
