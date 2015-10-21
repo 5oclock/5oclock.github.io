@@ -10,7 +10,7 @@ tagline:             'yourWebApp.valid?'
 description:         '<a href="http://rubyonrails.org/"><img src="http://i.imgur.com/sGs4YqE.png" title="source: imgur.com" /></a><br><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a> is an open-source web framework that’s optimized for programmer happiness and sustainable productivity.<br> It lets you
 write beautiful code by favoring convention over configuration.'
 url:                 http://developer.5oclock.io
-baseurl:             'http://developer.5oclock.io/'
+baseurl:             'http://developer.5oclock.io'
 paginate:            5
 
 # About/contact
