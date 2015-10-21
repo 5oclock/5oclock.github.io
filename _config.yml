@@ -9,15 +9,15 @@ title:               RubyonRails Developer
 tagline:             'yourWebApp.valid?'
 description:         '<a href="http://rubyonrails.org/"><img src="http://i.imgur.com/sGs4YqE.png" title="source: imgur.com" /></a><br><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a> is an open-source web framework that’s optimized for programmer happiness and sustainable productivity.<br> It lets you
 write beautiful code by favoring convention over configuration.'
-url:                 http://5oclock.github.io
-baseurl:             'http://5oclock.github.io/'
+url:                 http://developer.5oclock.io
+baseurl:             'http://developer.5oclock.io/'
 paginate:            5
 
 # About/contact
 author:
   name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               https://twitter.com/5oclockio
+  email:             jeong.deoksu@5oclock.io
 
 # Custom vars
-version:             1.0.0
+version:             1.1.0
