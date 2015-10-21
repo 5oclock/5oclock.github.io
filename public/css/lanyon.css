@@ -34,6 +34,9 @@
  * Update the foundational and global aspects of the page.
  */
 
+/* Google 폰트 Noto Sans KR 사용 */
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
 /* Prevent scroll on narrow devices */
 html,
 body {
@@ -41,11 +44,11 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Noto Sans KR', "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans KR', "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
