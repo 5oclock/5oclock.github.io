@@ -17,8 +17,8 @@ paginate:            3
 # About/contact
 author:
   name:              Mark Otto
-  url:               https://twitter.com/5oclockio
-  email:             jeong.deoksu@5oclock.io
+  url:               https://twitter.com/5oclock_io
+  email:             zorba@5oclock.io
 
 # Custom vars
 version:             1.1.0
