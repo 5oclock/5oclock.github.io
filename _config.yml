@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               RubyonRails Developer
 tagline:             'yourWebApp.valid?'
-description:         '<a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a> is an open-source web framework that’s optimized for programmer happiness and sustainable productivity. It lets you
+description:         '<a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a> is an open-source web framework that’s optimized for programmer happiness and sustainable productivity.<br> It lets you
 write beautiful code by favoring convention over configuration.'
 url:                 http://5oclock.github.io
 baseurl:             'http://5oclock.github.io/'
