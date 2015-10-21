@@ -337,13 +337,11 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
-  font-size: 1em;
   font-weight: bold;
 }
 .page-title,
 .post-title {
   margin-top: 0;
-  font-size: 1.7em;
   font-weight: bold;
 }
 
