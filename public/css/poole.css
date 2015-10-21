@@ -27,7 +27,7 @@
  * Reverse layout
  * Themes
  */
-
+@import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
 
 /*
  * Body resets
@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Nanum Barun Gothic', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #2A363B;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -110,7 +110,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: #2A363B;
 }
 
 
