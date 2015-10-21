@@ -120,7 +120,8 @@ a {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
-  font-size: 1.5em;
+  font-size: 1.7em;
+  font-weight: bold;
 }
 .masthead-title a {
   color: #505050;
@@ -336,11 +337,12 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
-  font-size: 1.5em;
+  font-size: 1.6em;
 }
 .page-title,
 .post-title {
   margin-top: 0;
+  font-size: 1.6em;
 }
 
 /* Meta data line below post title */
