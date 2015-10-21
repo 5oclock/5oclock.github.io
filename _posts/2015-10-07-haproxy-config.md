@@ -1,3 +1,10 @@
+---
+layout: post
+title: Introducing haproxy config
+comments: true
+---
+
+
 ### 전역 옵션 섹션
 **global**    
 
