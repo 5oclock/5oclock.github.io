@@ -41,6 +41,9 @@
 /* Google 나눔바른고딕 웹폰트 사용 */ 
 @import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
 
+/* Google 나눔고딕 웹폰트 사용 */
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
 /* Prevent scroll on narrow devices */
 html,
 body {
@@ -48,11 +51,11 @@ body {
 }
 
 html {
-  font-family: 'Nanum Barun Gothic', "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Nanum Gothic', "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Nanum Barun Gothic', "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Nanum Gothic', "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #2A363B;
   letter-spacing: -.025rem;
