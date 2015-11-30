@@ -38,11 +38,15 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 */
 
-/* Google 나눔바른고딕 웹폰트 사용 */ 
+/* Google 나눔바른고딕 웹폰트 사용 
 @import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
+*/ 
 
-/* Google 나눔고딕 웹폰트 사용 */
+/* Google 나눔고딕 웹폰트 사용 
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+*/
+
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
 
 /* Prevent scroll on narrow devices */
 html,
@@ -51,11 +55,11 @@ body {
 }
 
 html {
-  font-family: 'Nanum Gothic', "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Spoqa Han Sans', "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Nanum Gothic', "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Spoqa Han Sans', "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #2A363B;
   letter-spacing: -.025rem;
@@ -171,7 +175,7 @@ a {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Spoqa Han Sans', Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -393,7 +397,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Spoqa Han Sans', Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
