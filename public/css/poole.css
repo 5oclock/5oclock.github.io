@@ -27,7 +27,8 @@
  * Reverse layout
  * Themes
  */
-@import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-jp.css);
 
 /*
  * Body resets
@@ -48,7 +49,7 @@ body {
 }
 
 html {
-  font-family: 'Nanum Barun Gothic', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -76,7 +77,7 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* Headings */
@@ -150,7 +151,7 @@ abbr[title] {
 /* Code */
 code,
 pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', Menlo, Monaco, "Courier New", monospace;
 }
 code {
   padding: .25em .5em;
@@ -190,7 +191,7 @@ pre code {
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
-  font-family: Menlo, Monaco, "Courier New", monospace !important;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', Menlo, Monaco, "Courier New", monospace !important;
 }
 .gist .markdown-body {
   padding: 15px;
@@ -389,7 +390,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
