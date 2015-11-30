@@ -47,6 +47,7 @@
 */
 
 @import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-jp.css);
 
 /* Prevent scroll on narrow devices */
 html,
@@ -55,11 +56,11 @@ body {
 }
 
 html {
-  font-family: 'Spoqa Han Sans', "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Spoqa Han Sans', "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #2A363B;
   letter-spacing: -.025rem;
@@ -175,7 +176,7 @@ a {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: 'Spoqa Han Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
