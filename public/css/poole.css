@@ -53,9 +53,9 @@ html {
   font-size: 14px;
   line-height: 1.5;
 }
-@media (min-width: 38em) {
+@media (min-width: 45em) {
   html {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: lighter;
     color: #000000;
   }
