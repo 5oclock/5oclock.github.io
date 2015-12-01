@@ -56,7 +56,6 @@ html {
 @media (min-width: 38em) {
   html {
     font-size: 18px;
-    font-weight: lighter;
     color: #000000;
   }
 }
