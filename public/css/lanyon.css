@@ -107,7 +107,7 @@ a {
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 48rem;
+    max-width: 44rem;
   }
 }
 
