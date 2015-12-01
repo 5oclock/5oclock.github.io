@@ -43,11 +43,11 @@ body {
 }
 
 html {
-  font-family: 'Nanum Gothic', "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif', "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
   font-weight: 400;
   color: #2A363B;
   letter-spacing: -.025rem;
@@ -163,7 +163,7 @@ a {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif', Helvetica, Arial, sans-serif;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
