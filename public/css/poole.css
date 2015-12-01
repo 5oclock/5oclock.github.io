@@ -27,8 +27,7 @@
  * Reverse layout
  * Themes
  */
-@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
-@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-jp.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 /*
  * Body resets
@@ -49,7 +48,7 @@ body {
 }
 
 html {
-  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Nanum Gothic', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.7;
 }
@@ -153,7 +152,7 @@ abbr[title] {
 /* Code */
 code,
 pre {
-  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', Menlo, Monaco, "Courier New", monospace;
+  font-family: 'Nanum Gothic', Menlo, Monaco, "Courier New", monospace;
 }
 code {
   padding: .25em .5em;
@@ -193,7 +192,7 @@ pre code {
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
-  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', Menlo, Monaco, "Courier New", monospace !important;
+  font-family: 'Nanum Gothic', Menlo, Monaco, "Courier New", monospace !important;
 }
 .gist .markdown-body {
   padding: 15px;
@@ -392,7 +391,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Nanum Gothic', "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
